@@ -1,0 +1,547 @@
+id;st;us   ;facies;forme;morphologie;aspect;longueur;largeur;epaisseur;poids;magnetisme
+1;742;2eme_moitie;SAS;Irrégulière;Plano-Convexe;Lisse;34;34;25;15;Faible 
+2;198;;SAS;Irrégulière;Irregulière;Régulier ;24;30;16;8;Aucun
+3;742;us_2;SAS;Rond;Plano-Convexe;Régulier ;23;23;19;8;Aucun
+4;397;us_3;SAS;Irrégulière;Irregulière;Régulier ;28;35;19;14;Aucun
+5;408;;SAS;Irrégulière;Irregulière;Régulier ;15;27;14;4;Aucun
+6;408;;SAS;Irrégulière;Irregulière;Régulier ;15;30;14;4;Aucun
+7;397;us_2;SAS;Irrégulière;Irregulière;Régulier ;23;40;18;15;Aucun
+8;397;us_2;SAS;Irrégulière;Irregulière;Régulier ;31;40;22;14;Aucun
+9;742;2eme_moitie;SAS;Irrégulière;Irregulière;Lisse;30;33;23;17;Aucun
+10;406;2eme_moitie;SAS;Rond;Aplatie;Régulier ;25;26;8;8;Aucun
+11;406;2eme_moitie;SAS;Ovale Large;Bombo-convexe;Lisse;20;34;20;11;Aucun
+12;420;us_2;SAS;Irrégulière;Aplatie;Déchiqueté;20;31;10;8;Aucun
+13;403;surface;SAS;Ovale Large;Plano-Convexe;Régulier ;25;34;16;7;Aucun
+14;405;us_7;SAS;Semi-circulaire;Bombo-convexe tronquée;Lisse;27;36;20;12;Aucun
+15;405;us_7;SAS;Irrégulière;Irregulière;Lisse;24;37;17;10;Aucun
+16;406;;SAS;Rond;Aplatie;Déchiqueté;34;31;22;15;Aucun
+17;420;;SAS;Irrégulière;Irregulière;Régulier ;38;50;19;32;Aucun
+18;407;;SAS;Irrégulière;Irregulière;Régulier ;28;33;22;18;Aucun
+19;407;;SAS;Irrégulière;Irregulière;Régulier ;20;38;24;18;Aucun
+20;407;;SAS;Ovale Large;Plano-Convexe;Lisse;19;35;24;20;Aucun
+21;407;;SAS;Irrégulière;Aplatie;Lisse;33;40;16;14;Aucun
+22;407;;SAS;Irrégulière;Aplatie;Lisse;20;32;16;10;Aucun
+23;407;;SAS;Rond;Plano-Convexe;Déchiqueté;19;19;10;6;Aucun
+24;407;;SAS;Ovale Large;Aplatie;Irrégulier;22;32;13;9;Aucun
+25;407;;SAS;Ovale Large;Plano-Convexe;Déchiqueté;20;32;23;9;Aucun
+26;407;;SAS;Ovale Large;Aplatie;Déchiqueté;25;34;14;9;Aucun
+27;407;;SAS;Irrégulière;Irregulière;Déchiqueté;14;10;6;5;Aucun
+28;420;;SAS;Rond;Plano-Convexe;Régulier ;32;32;19;14;Aucun
+29;420;;SAS;Irrégulière;Irregulière;Régulier ;22;33;18;18;Aucun
+30;420;;SAS;Ovale Large;Plano-Convexe;Irrégulier;20;36;19;10;Aucun
+31;420;;SAS;Rond;Aplatie;Déchiqueté;23;31;15;6;Aucun
+32;407;us_1 ;SAS;Rond;Plano-Convexe;Lisse;20;25;13;5;Aucun
+33;407;us_1 ;SAS;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;20;33;28;11;Aucun
+34;397;us_3;SAS;Rond;Plano-convexe tronquée;Lisse;24;24;16;6;Aucun
+35;397;us_3;SAS;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;24;37;29;18;Aucun
+36;397;us_3;SAS;Ovale Large;Plano-Convexe;Lisse;25;35;18;13;Aucun
+37;397;us_3;SAS;Irrégulière;Irregulière;Lisse;27;33;20;9;Aucun
+38;397;us_3;SAS;Irrégulière;Irregulière;Lisse;21;27;19;7;Aucun
+39;407;;SAS;Irrégulière;Plano-Convexe;Régulier ;28;43;22;21;Aucun
+40;407;;SAS;Irrégulière;Plano-Convexe;Lisse;22;30;18;11;Aucun
+41;403;;SAS;Ovale Large;Plano-Convexe;Régulier ;43;74;22;57;Aucun
+42;407;2eme_moitie;SAS;Ovale Long avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;54;57;48;102;Aucun
+43;407;2eme_moitie;SAS;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;42;30;26;28;Aucun
+44;407;2eme_moitie;SAS;Rond;Aplatie;Déchiqueté;47;53;16;32;Aucun
+45;407;2eme_moitie;SAS;Irrégulière;Irregulière;Régulier ;25;36;28;14;Aucun
+46;407;2eme_moitie;SAS;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;40;32;26;29;Aucun
+47;407;2eme_moitie;SAS;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;18;41;25;16;Aucun
+48;407;us_4;SAS;Irrégulière;Plano-Convexe;Lisse;31;38;21;10;Aucun
+49;407;us_4;SAS;Semi-circulaire;Plano-Convexe;Lisse;20;35;19;10;Aucun
+50;403;;SAS;Rond;Plano-Convexe;Régulier ;39;45;27;34;Aucun
+51;403;;SAS;Ovale Large;Plano-Convexe;Régulier ;41;47;26;35;Aucun
+52;403;;SAS;Ovale Large;Plano-Convexe;Lisse;38;42;18;19;Aucun
+53;403;;SAS;Rond;Plano-Convexe;Régulier ;32;32;24;19;Aucun
+54;403;;SAS;Irrégulière;Irregulière;Lisse;24;26;12;8;Aucun
+55;403;;SAS;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;26;31;20;15;Aucun
+56;403;;SAS;Ovale Large;Plano-Convexe;Lisse;30;40;22;24;Aucun
+57;403;;SAS;Irrégulière;Irregulière;Lisse;27;25;22;10;Aucun
+58;403;;SAS;Irrégulière;Plano-Convexe;Lisse;37;50;26;31;Aucun
+59;403;;SAS;Irrégulière;Irregulière;Régulier ;25;50;24;13;Aucun
+60;403;;SAS;Irrégulière;Irregulière;Régulier ;29;37;25;15;Aucun
+61;403;;SAS;Irrégulière;Plano-Convexe;Irrégulier;27;27;26;13;Aucun
+62;403;;SAS;Irrégulière;Irregulière;Lisse;30;40;18;16;Aucun
+63;403;;SAS;Rond;Plano-Convexe;Irrégulier;22;23;14;4;Aucun
+64;403;;SAS;Ovale Large;Concavo-convexe;Régulier ;51;30;16;19;Aucun
+65;403;;SAS;Irrégulière;Irregulière;Lisse;29;35;21;15;Aucun
+66;403;;SAS;Ovale Large;Plano-Convexe;Lisse;54;58;26;56;Aucun
+67;403;;SAS;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;25;44;28;19;Aucun
+68;403;;SAS;Rond;Concavo-convexe;Régulier ;27;33;18;12;Aucun
+69;403;;SAS;Irrégulière;Irregulière;Lisse;17;34;18;8;Aucun
+70;180;2eme_moitie;SFR;Ovale Large;Plano-Convexe;Régulier ;40;63;30;115;Fort
+71;742;2eme_moitie;SFR;Ovale Large;Plano-Convexe;Régulier ;40;51;31;65;Local
+72;405;;SFR;Ovale Long;Plano-Convexe;Régulier ;90;75;64;380;Local
+73;405;;SFR;Ovale Large avec 2 bord d'appui rectiligne;Plano-Convexe;Régulier ;51;73;32;95;Faible 
+74;405;;SFR;Ovale Large;Plano-Convexe;Régulier ;30;62;21;30;Faible 
+75;405;;SFR;Ovale Large avec 2 bord d'appui rectiligne ;Plano-Convexe;Régulier ;70;90;60;370;Local
+76;570;;SFR;Ovale Large;Concavo-convexe;Régulier ;60;92;52;265;Faible 
+77;192;us_noire;SFR;Ovale Long;Bombo-convexe;Irrégulier;29;46;36;30;Faible 
+78;180;;SFR;Ovale Large;Plano-Convexe;Régulier ;17;30;12;10;Local
+79;192;us_1;SFR;Ovale Large;Plano-Convexe;Régulier ;62;85;47;175;Local
+80;192;us_1;SFR;Ovale Large;Plano-Convexe;Régulier ;52;60;30;100;Fort
+81;192;us_1;SFR;Ovale Large;Plano-Convexe;Régulier ;35;56;31;60;Local
+82;198;;SFR;Ovale Long;Plano-Convexe;Régulier ;40;67;30;65;Faible 
+83;691;;SFR;Ovale Large;Plano-Convexe;Irrégulier;63;80;30;155;Local
+84;691;;SFR;Ovale Large;Concavo-convexe;Irrégulier;27;54;26;45;Fort
+85;416;;SFR;Ovale Large;Aplatie;Irrégulier;85;98;37;240;Faible 
+86;416;;SFR;Rond;Aplatie;Régulier ;50;53;16;50;Fort
+87;444;us_1;SFR;Ovale Large;Plano-Convexe;Régulier ;44;73;31;130;Local
+88;194;;SFR;Circulaire avec 2 bords d'appuis rectilignes;Plano-Convexe;Régulier ;17;18;15;5;Faible 
+89;420;us_2;SFR;Rond;Plano-Convexe;Irrégulier;41;37;33;55;Fort
+90;420;us_2;SFR;Ovale Large;Plano-Convexe;Régulier ;43;78;26;110;Local
+91;420;us_2;SFR;Ovale Large;Concavo-convexe;Régulier ;27;55;26;90;Fort
+92;420;us_2;SFR;Ovale Long;Plano-Convexe;Régulier ;40;32;20;50;Fort
+93;420;us_2;SFR;Circulaire avec 2 bords d'appuis rectilignes;Plano-Convexe;Régulier ;40;37;35;30;Local
+94;420;us_2;SFR;Rond;Plano-Convexe;Régulier ;39;42;24;55;Fort
+95;420;us_2;SFR;Ovale Long;Concavo-convexe;Régulier ;80;65;23;180;Local
+96;406;2eme_moitie;SFR;Ovale Large;Plano-Convexe;Régulier ;25;41;17;20;Fort
+97;177;;SFR;Rond;Concavo-convexe;Régulier ;28;26;20;20;Fort
+98;198;;SFR;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;23;56;37;56;Local
+99;397;us_3;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;33;31;24;17;Local
+100;397;us_3;SFR;Semi-circulaire;Aplatie;Régulier ;32;39;18;14;Local
+101;405;;SFR;Semi-circulaire;Plano-convexe tronquée;Déchiqueté;46;55;30;45;Faible 
+102;420;us_1;SFR;Ovale Large;Plano-Convexe;Irrégulier;28;34;27;24;Fort
+103;420;us_1;SFR;Semi-circulaire;Aplatie;Régulier ;31;40;17;31;Fort
+104;420;us_1;SFR;Semi-circulaire;Aplatie;Régulier ;29;36;16;18;Fort
+105;192;us_1;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;19;55;37;42;Faible 
+106;192;us_1;SFR;Rond;Plano-Convexe;Lisse;46;47;27;63;Fort
+107;192;us_1;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;42;87;24;153;Fort
+108;192;us_1;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;31;47;35;64;Fort
+109;192;us_1;SFR;Ovale Large;Plano-Convexe;Régulier ;17;27;21;14;Fort
+110;743;us_1 ;SFR;Ovale Large;Plano-convexe tronquée;Régulier ;25;39;33;30;Fort
+111;408;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;19;24;10;6;Fort
+112;408;;SFR;Ovale Long;Aplatie;Irrégulier;19;21;9;9;Fort
+113;175;;SFR;Semi-circulaire;Aplatie;Lisse;63;93;34;246;Fort
+114;175;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;43;48;27;67;Fort
+115;175;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;30;66;30;70;Faible 
+116;175;;SFR;Rond;Plano-Convexe;Régulier ;26;27;23;18;Local
+117;175;;SFR;Semi-circulaire;Aplatie;Régulier ;39;50;22;45;Fort
+118;177;;SFR;Semi-circulaire;Plano-Convexe;Régulier ;65;86;38;345;Fort
+119;177;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;22;39;23;25;Fort
+120;397;us_2;SFR;Rond;Aplatie;Régulier ;45;46;21;61;Faible 
+121;397;us_2;SFR;Ovale Large;Aplatie;Régulier ;32;48;17;28;Faible 
+122;397;us_2;SFR;Rond;Plano-Convexe;Irrégulier;34;34;20;23;Fort
+123;397;us_2;SFR;Semi-circulaire;Aplatie;Déchiqueté;44;52;23;48;Fort
+124;397;us_2;SFR;Ovale Large;Plano-Convexe;Déchiqueté;37;29;20;22;Local
+125;397;us_2;SFR;Semi-circulaire;Aplatie;Régulier ;46;42;22;45;Local
+126;397;us_2;SFR;Ovale Large;Plano-Convexe;Régulier ;32;45;22;52;Local
+127;397;us_2;SFR;Rond;Aplatie;Irrégulier;34;38;16;18;Local
+128;397;us_2;SFR;Ovale Large;Aplatie;Irrégulier;33;44;15;28;Local
+129;397;us_3;SFR;Rond;Plano-Convexe;Irrégulier;79;77;42;192;Fort
+130;397;us_3;SFR;Ovale Large;Plano-Convexe;Irrégulier;49;70;40;125;Faible 
+131;397;us_3;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;48;54;36;59;Faible 
+132;397;us_3;SFR;Irrégulière;Aplatie;Déchiqueté;50;65;24;79;Faible 
+133;397;us_3;SFR;Rond;Aplatie;Régulier ;37;44;20;36;Local
+134;397;us_3;SFR;Semi-circulaire;Plano-Convexe;Déchiqueté;44;56;16;50;Local
+135;397;us_3;SFR;Ovale Large;Aplatie;Irrégulier;32;43;14;24;Local
+136;397;us_3;SFR;Ovale Large;Plano-convexe tronquée;Régulier ;30;44;23;41;Faible 
+137;397;us_3;SFR;Rond;Bombo-convexe tronquée;Irrégulier;40;40;30;47;Local
+138;397;us_3;SFR;Rond;Plano-convexe tronquée;Régulier ;27;29;13;44;Fort
+139;397;us_3;SFR;Irrégulière;Irregulière;Déchiqueté;20;33;11;18;Fort
+140;397;us_3;SFR;Rond;Aplatie;Irrégulier;24;32;6;21;Fort
+141;397;us_3;SFR;Ovale Large;Aplatie;Irrégulier;30;51;5;43;Faible 
+142;397;us_3;SFR;Semi-circulaire;Aplatie;Irrégulier;33;46;7;39;Local
+143;397;us_3;SFR;Ovale Large;Plano-convexe tronquée;Régulier ;12;32;11;17;Faible 
+144;397;us_3;SFR;Semi-circulaire;Plano-convexe tronquée;Lisse;10;19;9;17;Fort
+145;397;us_3;SFR;Ovale Large;Plano-convexe tronquée;Irrégulier;18;34;21;9;Fort
+146;397;us_3;SFR;Ovale Large;Aplatie;Régulier ;44;78;14;69;Faible 
+147;397;us_3;SFR;Ovale Large;Aplatie;Régulier ;44;127;22;179;Fort
+148;177;;SFR;Rond;Plano-convexe tronquée;Régulier ;25;26;21;18;Fort
+149;742;2eme_moitie;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;26;50;49;63;Fort
+150;414;us_1;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;44;72;30;124;Fort
+151;406;2eme_moitie;SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;44;54;24;49;Local
+152;406;2eme_moitie;SFR;Ovale Long avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Irrégulier;62;50;33;103;Local
+153;406;2eme_moitie;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;21;42;22;19;Fort
+154;420;us_2;SFR;Ovale Large;Irregulière;Irrégulier;28;60;45;75;Fort
+155;420;us_2;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;65;77;31;174;Fort
+156;420;us_2;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;25;50;51;86;Fort
+157;420;us_2;SFR;Rond;Bombo-convexe;Déchiqueté;43;47;33;53;Fort
+158;420;us_2;SFR;Ovale Large;Plano-Convexe;Lisse;21;41;40;55;Fort
+159;420;us_2;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;40;54;32;60;Local
+160;420;us_2;SFR;Semi-circulaire;Plano-convexe tronquée;Lisse;26;33;28;29;Fort
+161;420;us_2;SFR;Rond;Plano-convexe tronquée;Régulier ;31;42;20;48;Fort
+162;420;us_2;SFR;Ovale Large;Aplatie;Lisse;34;48;17;35;Fort
+163;420;us_2;SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Plano-convexe tronquée;Lisse;33;38;18;29;Fort
+164;420;us_2;SFR;Rond;Plano-convexe tronquée;Régulier ;31;42;27;33;Fort
+165;180;2eme_moitie;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;41;64;30;109;Fort
+166;198;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;18;42;29;27;Fort
+167;691;;SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Aplatie;Irrégulier;59;71;15;137;Faible 
+168;403;surface;SFR;Semi-circulaire;Aplatie;Irrégulier;28;34;17;15;Fort
+169;403;surface;SFR;Semi-circulaire;Aplatie;Régulier ;20;25;11;7;Local
+170;403;surface;SFR;Semi-circulaire;Aplatie;Régulier ;20;31;13;11;Fort
+171;403;surface;SFR;Semi-circulaire;Aplatie;Régulier ;16;24;11;5;Fort
+172;405;;SFR;Ovale Large;Aplatie;Régulier ;29;58;19;26;Faible 
+173;192;us_1;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;46;62;27;96;Fort
+174;192;us_1;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;56;79;34;157;Local
+175;416;;SFR;Rond;Aplatie;Régulier ;54;54;14;48;Fort
+176;416;;SFR;Rond;Aplatie;Irrégulier;82;89;32;211;Fort
+177;407;us_6;SFR;Ovale Large;Plano-Convexe;Régulier ;59;96;28;167;Local
+178;407;us_6;SFR;Ovale Large;Aplatie;Régulier ;45;67;23;75;Fort
+179;405;us_7;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;43;57;22;57;Local
+180;405;us_7;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;63;79;33;161;Local
+181;405;us_2;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;45;66;44;123;Fort
+182;405;us_2;SFR;Rond;Plano-Convexe;Irrégulier;46;49;30;75;Faible 
+183;405;;SFR;Rond;Aplatie;Irrégulier;45;45;23;47;Fort
+184;406;;SFR;Semi-circulaire;Aplatie;Irrégulier;34;48;15;27;Faible 
+185;406;;SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Aplatie;Régulier ;55;61;12;74;Faible 
+186;420;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;33;42;27;28;Local
+187;420;;SFR;Rond;Plano-Convexe;Régulier ;23;20;17;5;Fort
+188;420;;SFR;Irrégulière;Bombo-convexe;Déchiqueté;31;44;22;34;Local
+189;420;;SFR;Rond;Aplatie;Irrégulier;38;41;23;37;Faible 
+190;420;;SFR;Semi-circulaire;Concavo-convexe;Irrégulier;34;55;20;49;Faible 
+191;420;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;30;45;30;48;Fort
+192;420;;SFR;Rond;Aplatie;Régulier ;26;35;17;14;Faible 
+193;407;;SFR;Irrégulière;Irregulière;Irrégulier;35;58;32;65;Fort
+194;407;;SFR;Rond;Plano-Convexe;Régulier ;35;36;21;43;Fort
+195;407;;SFR;Rond;Plano-Convexe;Régulier ;34;32;23;18;Fort
+196;407;;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;30;34;25;28;Faible 
+197;407;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;39;50;28;52;Faible 
+198;407;;SFR;Semi-circulaire;Aplatie;Régulier ;39;42;17;33;Fort
+199;407;;SFR;Ovale Long;Aplatie;Régulier ;56;40;16;36;Fort
+200;407;;SFR;Rond;Aplatie;Irrégulier;52;47;20;48;Fort
+201;407;;SFR;Rond;Aplatie;Régulier ;30;30;14;14;Fort
+202;407;;SFR;Rond;Plano-convexe tronquée;Régulier ;26;26;27;26;Fort
+203;407;;SFR;Irrégulière;Irregulière;Irrégulier;17;26;20;10;Fort
+204;407;;SFR;Ovale Large;Aplatie;Régulier ;25;38;13;15;Fort
+205;407;;SFR;Irrégulière;Irregulière;Régulier ;28;43;18;26;Fort
+206;407;;SFR;Rond;Plano-Convexe;Régulier ;34;38;15;19;Fort
+207;407;;SFR;Rond;Aplatie;Irrégulier;22;28;13;15;Fort
+208;407;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;28;30;24;22;Faible 
+209;407;;SFR;Rond;Aplatie;Déchiqueté;25;26;13;16;Fort
+210;407;;SFR;Rond;Plano-Convexe;Irrégulier;25;30;23;28;Fort
+211;420;;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;64;84;53;261;Fort
+212;420;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;37;75;33;140;Fort
+213;420;;SFR;Ovale Large;Plano-Convexe;Lisse;50;63;46;195;Fort
+214;420;;SFR;Irrégulière;Plano-Convexe;Irrégulier;39;39;27;31;Fort
+215;420;;SFR;Rond;Aplatie;Irrégulier;31;35;17;16;Fort
+216;420;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;64;116;40;335;Fort
+217;175;;SFR;Ovale Large;Plano-Convexe;Régulier ;60;89;34;260;Fort
+218;407;us_1 ;SFR;Rond;Plano-Convexe;Irrégulier;31;32;20;19;Local
+219;407;us_1 ;SFR;Ovale Long;Aplatie;Irrégulier;46;38;17;38;Fort
+220;407;us_1 ;SFR;Irrégulière;Aplatie;Irrégulier;40;47;18;23;Fort
+221;407;us_1 ;SFR;Ovale Large;Aplatie;Irrégulier;38;56;18;43;Fort
+222;407;us_1 ;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;46;60;29;83;Local
+223;407;us_1 ;SFR;Irrégulière;Plano-convexe tronquée;Régulier ;56;71;36;96;Fort
+224;397;us_3;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;48;55;26;43;Faible 
+225;397;us_3;SFR;Ovale Large;Plano-Convexe;Régulier ;50;71;35;144;Fort
+226;397;us_3;SFR;Semi-circulaire;Plano-Convexe;Régulier ;22;33;22;15;Fort
+227;397;us_3;SFR;Irrégulière;Plano-Convexe;Régulier ;33;26;18;26;Fort
+228;397;us_3;SFR;Semi-circulaire;Aplatie;Irrégulier;31;46;22;30;Fort
+229;397;us_3;SFR;Ovale Large;Plano-Convexe;Régulier ;60;87;30;234;Fort
+230;397;us_3;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;36;42;24;37;Fort
+231;397;us_3;SFR;Rond;Aplatie;Régulier ;27;27;18;20;Fort
+232;397;us_3;SFR;Semi-circulaire;Plano-Convexe;Irrégulier;46;53;32;62;Fort
+233;397;us_3;SFR;Rond;Aplatie;Irrégulier;82;82;29;202;Fort
+234;397;us_3;SFR;Ovale Large;Aplatie;Irrégulier;41;69;27;58;Fort
+235;397;us_3;SFR;Ovale Long;Plano-Convexe;Régulier ;102;77;37;355;Fort
+236;407;;SFR;Ovale Large avec 2 bord d'appui rectiligne;Bombo-convexe tronquée;Irrégulier;68;65;31;155;Fort
+237;407;;SFR;Rond;Plano-Convexe;Régulier ;52;58;31;85;Fort
+238;407;;SFR;Rond;Plano-Convexe;Régulier ;35;37;27;31;Fort
+239;407;;SFR;Irrégulière;Plano-Convexe;Irrégulier;50;56;32;104;Fort
+240;407;;SFR;Ovale Large;Plano-Convexe;Déchiqueté;51;83;45;138;Fort
+241;407;;SFR;Ovale Large;Plano-Convexe;Régulier ;57;73;53;182;Fort
+242;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Irrégulier;45;88;46;182;Fort
+243;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;33;66;65;71;Fort
+244;403;;SFR;Rond;Plano-Convexe;Régulier ;37;37;25;70;Fort
+245;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Régulier ;32;53;36;72;Fort
+246;403;;SFR;Rond;Aplatie;Régulier ;40;42;18;33;Fort
+247;403;;SFR;Rond;Plano-Convexe;Irrégulier;41;35;22;25;Fort
+248;407;2eme_moitie;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;35;69;23;61;Faible 
+249;407;2eme_moitie;SFR;Semi-circulaire;Aplatie;Lisse;41;53;16;35;Fort
+250;407;2eme_moitie;SFR;Ovale Large;Plano-Convexe;Irrégulier;37;50;29;42;Faible 
+251;407;2eme_moitie;SFR;Rond;Plano-Convexe;Lisse;40;40;23;44;Fort
+252;407;2eme_moitie;SFR;Irrégulière;Plano-Convexe;Irrégulier;34;37;19;28;Faible 
+253;407;2eme_moitie;SFR;Rond;Aplatie;Régulier ;65;56;45;125;Fort
+254;407;2eme_moitie;SFR;Ovale Large;Plano-Convexe;Irrégulier;80;113;37;455;Fort
+255;407;us_4;SFR;Ovale Large;Plano-Convexe;Lisse;33;50;22;27;Fort
+256;407;us_4;SFR;Semi-circulaire;Plano-convexe tronquée;Lisse;30;43;24;32;Fort
+257;407;us_4;SFR;Semi-circulaire;Aplatie;Irrégulier;30;63;18;41;Fort
+258;407;us_4;SFR;Ovale Large;Aplatie;Lisse;24;40;15;18;Fort
+259;407;us_4;SFR;Ovale Large;Aplatie;Déchiqueté;51;69;28;95;Fort
+260;407;us_4;SFR;Rond;Plano-convexe tronquée;Irrégulier;73;78;63;260;Fort
+261;403;;SFR;Ovale Large;Aplatie;Irrégulier;61;72;27;146;Fort
+262;403;;SFR;Rond;Aplatie;Déchiqueté;56;56;25;94;Local
+263;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;24;40;40;25;Local
+264;403;;SFR;Irrégulière;Aplatie;Régulier ;36;50;18;50;Fort
+265;403;;SFR;Rond;Plano-Convexe;Irrégulier;50;50;30;72;Fort
+266;403;;SFR;Rond;Aplatie;Irrégulier;57;70;20;107;Fort
+267;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;49;54;48;142;Fort
+268;403;;SFR;Irrégulière;Plano-Convexe;Irrégulier;74;75;35;196;Fort
+269;403;;SFR;Ovale Large;Plano-Convexe;Déchiqueté;32;44;36;52;Local
+270;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Lisse;44;55;26;55;Local
+271;403;;SFR;Ovale Long;Aplatie;Irrégulier;72;57;24;55;Fort
+272;403;;SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;47;52;37;108;Local
+273;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;59;71;36;141;Fort
+274;403;;SFR;Irrégulière;Aplatie;Déchiqueté;51;80;35;58;Fort
+275;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;48;77;53;206;Fort
+276;403;;SFR;Rond;Plano-Convexe;Régulier ;55;55;33;81;Fort
+277;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;47;53;28;74;Fort
+278;403;;SFR;Ovale Large;Plano-Convexe;Régulier ;30;48;33;26;Fort
+279;403;;SFR;Ovale Large;Aplatie;Lisse;51;67;21;53;Fort
+280;403;;SFR;Semi-circulaire;Aplatie;Irrégulier;35;40;16;20;Faible 
+281;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;39;45;21;27;Local
+282;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;26;40;19;19;Local
+283;403;;SFR;Ovale Large;Plano-Convexe;Régulier ;43;67;34;71;Local
+284;403;;SFR;Ovale Large;Aplatie;Régulier ;43;64;23;67;Fort
+285;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;34;43;24;37;Local
+286;403;;SFR;Ovale Large;Plano-Convexe;Lisse;28;33;22;15;Fort
+287;403;;SFR;Rond;Plano-convexe tronquée;Lisse;34;35;19;29;Faible 
+288;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;29;43;23;33;Faible 
+289;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;20;34;26;16;Fort
+290;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;29;38;18;19;Aucun
+291;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;28;44;27;25;Fort
+292;403;;SFR;Irrégulière;Aplatie;Régulier ;31;40;12;16;Fort
+293;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;29;43;31;37;Local
+294;403;;SFR;Ovale Large;Plano-Convexe;Déchiqueté;51;94;48;130;Faible 
+295;403;;SFR;Rond;Aplatie;Régulier ;29;29;15;13;Fort
+296;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;38;58;29;77;Local
+297;403;;SFR;Irrégulière;Plano-Convexe;Déchiqueté;32;34;19;15;Fort
+298;403;;SFR;Ovale Long;Plano-Convexe;Irrégulier;43;33;21;31;Fort
+299;403;;SFR;Rond;Plano-Convexe;Irrégulier;45;45;29;56;Fort
+300;403;;SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;24;45;15;24;Fort
+301;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;43;50;22;60;Fort
+302;403;;SFR;Rond;Aplatie;Régulier ;35;35;17;21;Fort
+303;403;;SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;24;49;27;32;Fort
+304;403;;SFR;Ovale Large;Plano-Convexe;Irrégulier;32;40;27;42;Fort
+305;403;;SFR;Ovale Large;Aplatie;Irrégulier;47;63;24;82;Fort
+306;403;;SFR;Rond;Plano-Convexe;Régulier ;25;25;19;19;Fort
+307;403;;SFR;Ovale Large;Plano-Convexe;Régulier ;24;58;24;29;Fort
+308;403;;SFR;Irrégulière;Aplatie;Irrégulier;46;55;16;39;Fort
+309;407;;SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;60;73;40;219;Fort
+310;407;;SFR;Ovale Large;Plano-Convexe;Irrégulier;51;79;42;186;Fort
+311;407;;SFR;Ovale Large;Plano-Convexe;Déchiqueté;47;66;27;83;Fort
+312;407;;SFR;Semi-circulaire;Plano-Convexe;Régulier ;51;61;35;94;Fort
+313;177;;SFR+SAS;Ovale Large;Plano-Convexe;Irrégulier;33;46;30;30;Faible 
+314;420;us_2;SFR+SAS;Ovale Large;Aplatie;Irrégulier;37;70;17;65;Local
+315;177;us_4;SFR+SAS;Ovale Large;Plano-Convexe;Régulier ;35;71;36;75;Local
+316;177;;SFR+SAS;Ovale Large;Plano-Convexe;Régulier ;37;63;26;52;Fort
+317;406;2eme_moitie;SFR+SAS;Ovale Long avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Régulier ;38;30;26;34;Local
+318;420;;SFR+SAS;Semi-circulaire;Aplatie;Déchiqueté;42;52;24;50;Aucun
+319;407;;SFR+SAS;Semi-circulaire;Plano-Convexe;Irrégulier;70;106;56;285;Local
+320;403;;SFR+SAS;Ovale Large;Plano-Convexe;Régulier ;50;81;35;102;Fort
+321;688;sd_1;SGD;Ovale Large;Plano-Convexe;Lisse;20;29;15;15;Local
+322;742;2eme_moitie;SGD;Rond;Plano-Convexe;Régulier ;30;32;20;13;Local
+323;160;;SGD;Rond;Plano-Convexe;Régulier ;75;74;52;255;Faible 
+324;778;;SGD;Ovale Long;Aplatie;Régulier ;72;40;20;85;Faible 
+325;403;surface;SGD;Ovale Large;Plano-Convexe;Régulier ;45;65;36;105;Faible 
+326;742;us_2;SGD;Semi-circulaire;Aplatie;Régulier ;32;42;17;39;Fort
+327;742;us_2;SGD;Irrégulière;Irregulière;Régulier ;17;24;13;6;Fort
+328;397;us_4 ;SGD;Ovale Large;Plano-Convexe;Irrégulier;33;41;31;38;Faible 
+329;405;;SGD;Semi-circulaire;Plano-convexe tronquée;Régulier ;41;55;30;64;Local
+330;420;us_1;SGD;Semi-circulaire;Aplatie;Régulier ;37;48;26;37;Fort
+331;408;;SGD;Ovale Large;Plano-Convexe;Régulier ;28;46;23;20;Faible 
+332;408;;SGD;Rond;Plano-Convexe;Régulier ;23;24;17;6;Fort
+333;175;;SGD;Ovale Large;Plano-convexe tronquée;Régulier ;29;59;39;85;Fort
+334;175;;SGD;Ovale Large;Bombo-convexe;Déchiqueté;38;53;27;52;Faible 
+335;175;;SGD;Semi-circulaire;Aplatie;Régulier ;35;45;25;19;Faible 
+336;175;;SGD;Rond;Plano-convexe tronquée;Régulier ;23;30;17;12;Faible 
+337;177;;SGD;Ovale Large;Plano-Convexe;Irrégulier;44;62;44;163;Faible 
+338;177;;SGD;Ovale Large;Bombo-convexe;Irrégulier;54;76;42;172;Faible 
+339;397;us_2;SGD;Semi-circulaire;Plano-Convexe;Irrégulier;45;54;33;53;Faible 
+340;397;us_2;SGD;Ovale Large;Plano-Convexe;Irrégulier;41;68;25;87;Faible 
+341;397;us_2;SGD;Rond;Aplatie;Régulier ;40;37;17;24;Local
+342;397;us_2;SGD;Ovale Large;Plano-Convexe;Irrégulier;26;42;22;14;Faible 
+343;397;us_2;SGD;Rond;Aplatie;Régulier ;22;27;11;6;Faible 
+344;397;us_2;SGD;Irrégulière;Irregulière;Déchiqueté;19;23;14;5;Faible 
+345;397;us_2;SGD;Irrégulière;Irregulière;Déchiqueté;18;26;19;6;Faible 
+346;397;us_2;SGD;Irrégulière;Irregulière;Déchiqueté;17;23;12;3;Faible 
+347;397;us_3;SGD;Rond;Plano-Convexe;Irrégulier;28;24;16;13;Fort
+348;397;us_3;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Bombo-convexe tronquée;Régulier ;18;31;13;9;Fort
+349;397;us_3;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Bombo-convexe tronquée;Irrégulier;33;39;29;42;Fort
+350;397;us_3;SGD;Rond;Plano-Convexe;Régulier ;29;29;18;26;Local
+351;397;us_3;SGD;Ovale Large;Aplatie;Lisse;14;24;8;7;Local
+352;177;us_4;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;35;72;37;71;Faible 
+353;173;2eme_moitie;SGD;Rond;Plano-Convexe;Irrégulier;24;24;15;9;Faible 
+354;412;us_1;SGD;Rond;Plano-Convexe;Lisse;25;27;13;13;Fort
+355;742;2eme_moitie;SGD;Rond;Plano-Convexe;Lisse;30;31;19;13;Local
+356;177;us_noire;SGD;Ovale Large;Plano-Convexe;Régulier ;20;45;26;34;Aucun
+357;407;;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Déchiqueté;30;54;29;51;Local
+358;406;2eme_moitie;SGD;Rond;Plano-convexe tronquée;Irrégulier;54;69;48;106;Local
+359;192;us_noire;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;69;91;43;248;Fort
+360;420;us_2;SGD;Rond;Plano-convexe tronquée;Lisse;40;45;26;32;Fort
+361;420;us_2;SGD;Ovale Large avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Régulier ;37;79;36;13;Faible 
+362;420;us_2;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;27;44;41;34;Fort
+363;420;us_2;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;26;39;24;14;Faible 
+364;420;us_2;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;28;40;25;17;Faible 
+365;778;us_noire;SGD;Ovale Large;Aplatie;Régulier ;40;70;18;74;Faible 
+366;403;surface;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;45;66;36;96;Faible 
+367;405;us_7;SGD;Ovale Large;Plano-Convexe;Déchiqueté;35;47;18;25;Faible 
+368;405;us_7;SGD;Semi-circulaire;Plano-Convexe;Lisse;28;36;17;15;Local
+369;405;;SGD;Rond;Plano-convexe tronquée;Lisse;40;44;27;31;Local
+370;405;;SGD;Rond;Plano-Convexe;Irrégulier;55;55;34;130;Faible 
+371;779;surface;SGD;Semi-circulaire;Plano-convexe tronquée;Régulier ;58;69;25;244;Local
+372;420;;SGD;Ovale Large;Bombo-convexe;Régulier ;35;49;37;59;Fort
+373;420;;SGD;Ovale Long;Plano-Convexe;Régulier ;94;51;53;197;Faible 
+374;407;;SGD;Rond;Bombo-convexe;Régulier ;36;36;36;25;Local
+375;407;;SGD;Semi-circulaire;Aplatie;Régulier ;25;33;15;78;Local
+376;407;;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;31;57;46;83;Local
+377;407;;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;26;61;45;53;Local
+378;407;;SGD;Ovale Large avec 2 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;41;36;25;25;Local
+379;407;;SGD;Semi-circulaire;Plano-Convexe;Régulier ;35;47;25;45;Fort
+380;407;;SGD;Semi-circulaire;Aplatie;Régulier ;32;39;13;23;Fort
+381;407;;SGD;Semi-circulaire;Plano-convexe tronquée;Irrégulier;33;46;25;36;Local
+382;407;;SGD;Ovale Large;Plano-Convexe;Irrégulier;27;43;20;29;Local
+383;407;;SGD;Semi-circulaire;Plano-Convexe;Irrégulier;49;67;34;106;Local
+384;407;;SGD;Ovale Large;Plano-Convexe;Irrégulier;26;54;29;28;Local
+385;407;;SGD;Rond;Plano-Convexe;Irrégulier;38;35;37;45;Fort
+386;420;;SGD;Rond;Aplatie;Irrégulier;44;51;22;41;Aucun
+387;420;;SGD;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;24;38;23;26;Local
+388;420;;SGD;Ovale Large;Aplatie;Régulier ;28;36;14;16;Fort
+389;420;;SGD;Rond;Plano-Convexe;Régulier ;30;30;19;18;Aucun
+390;407;us_1 ;SGD;Ovale Large;Plano-Convexe;Régulier ;33;40;26;46;Aucun
+391;407;us_1 ;SGD;Ovale Large;Plano-Convexe;Irrégulier;38;49;27;45;Aucun
+392;407;us_1 ;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;35;51;40;70;Aucun
+393;407;us_1 ;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;21;48;29;37;Local
+394;407;us_1 ;SGD;Rond;Plano-Convexe;Régulier ;36;37;27;46;Faible 
+395;397;us_3;SGD;Ovale Long;Aplatie;Irrégulier;96;69;33;180;Local
+396;397;us_3;SGD;Ovale Large;Concavo-convexe;Régulier ;26;42;28;30;Local
+397;397;us_3;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;37;53;40;57;Faible 
+398;397;us_3;SGD;Semi-circulaire;Plano-convexe tronquée;Régulier ;64;74;35;156;Faible 
+399;397;us_3;SGD;Semi-circulaire;Plano-convexe tronquée;Irrégulier;36;59;23;56;Local
+400;397;us_3;SGD;Rond;Plano-convexe tronquée;Irrégulier;34;43;17;25;Faible 
+401;397;us_3;SGD;Irrégulière;Plano-Convexe;Régulier ;30;28;13;16;Local
+402;407;;SGD;Semi-circulaire;Plano-convexe tronquée;Irrégulier;61;81;46;315;Local
+403;407;;SGD;Semi-circulaire;Aplatie;Irrégulier;45;56;24;67;Faible 
+404;407;;SGD;Semi-circulaire;Plano-convexe tronquée;Régulier ;62;76;34;150;Fort
+405;403;;SGD;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;41;34;34;57;Local
+406;403;;SGD;Semi-circulaire;Plano-convexe tronquée;Irrégulier;53;74;29;115;Local
+407;403;;SGD;Semi-circulaire;Bombo-convexe tronquée;Irrégulier;49;80;45;121;Faible 
+408;403;;SGD;Semi-circulaire;Plano-Convexe;Régulier ;32;58;28;81;Fort
+409;403;;SGD;Rond;Plano-convexe tronquée;Irrégulier;36;36;28;23;Faible 
+410;407;2eme_moitie;SGD;Irrégulière;Plano-Convexe;Irrégulier;31;29;32;24;Aucun
+411;407;2eme_moitie;SGD;Rond;Plano-Convexe;Régulier ;36;36;28;40;Fort
+412;407;2eme_moitie;SGD;Ovale Large;Plano-Convexe;Irrégulier;29;45;21;20;Fort
+413;407;2eme_moitie;SGD;Ovale Long avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;109;94;106;875;Fort
+414;407;us_4;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;37;58;35;53;Aucun
+415;407;us_4;SGD;Rond;Plano-Convexe;Irrégulier;37;38;26;64;Faible 
+416;407;us_4;SGD;Semi-circulaire;Plano-Convexe;Régulier ;28;42;21;25;Fort
+417;407;us_4;SGD;Rond;Plano-Convexe;Irrégulier;47;60;57;83;Local
+418;403;;SGD;Rond;Plano-Convexe;Irrégulier;52;55;42;219;Fort
+419;403;;SGD;Irrégulière;Irregulière;Régulier ;41;41;47;68;Local
+420;403;;SGD;Ovale Large;Concavo-convexe;Régulier ;43;52;28;61;Faible 
+421;403;;SGD;Ovale Large;Aplatie;Irrégulier;42;80;27;78;Fort
+422;403;;SGD;Irrégulière;Irregulière;Irrégulier;25;53;24;26;Faible 
+423;403;;SGD;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;46;43;27;39;Fort
+424;403;;SGD;Ovale Large;Plano-Convexe;Lisse;22;39;27;11;Aucun
+425;403;;SGD;Irrégulière;Irregulière;Irrégulier;31;45;32;38;Aucun
+426;403;;SGD;Irrégulière;Irregulière;Régulier ;32;36;20;27;Local
+427;403;;SGD;Rond;Aplatie;Lisse;33;34;16;18;Local
+428;403;;SGD;Rond;Aplatie;Régulier ;33;41;14;20;Faible 
+429;403;;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;28;50;26;30;Fort
+430;403;;SGD;Rond;Aplatie;Irrégulier;38;38;19;20;Local
+431;403;;SGD;Semi-circulaire;Bombo-convexe tronquée;Irrégulier;35;42;30;21;Aucun
+432;403;;SGD;Ovale Long;Plano-Convexe;Régulier ;58;50;53;204;Faible 
+433;403;;SGD;Semi-circulaire;Aplatie;Déchiqueté;56;70;30;113;Aucun
+434;403;;SGD;Ovale Large;Plano-Convexe;Lisse;49;68;50;154;Local
+435;403;;SGD;Rond;Aplatie;Irrégulier;49;49;15;44;Faible 
+436;403;;SGD;Rond;Plano-Convexe;Lisse;48;48;25;51;Faible 
+437;403;;SGD;Ovale Large;Plano-Convexe;Régulier ;36;50;19;45;Aucun
+438;403;;SGD;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Lisse;20;39;27;21;Local
+439;403;;SGD;Ovale Large;Plano-Convexe;Lisse;22;33;21;12;Faible 
+440;403;;SGD;Ovale Large;Plano-Convexe;Régulier ;27;42;22;34;Local
+441;403;;SGD;Irrégulière;Plano-Convexe;Régulier ;34;68;23;69;Fort
+442;403;;SGD;Ovale Large;Plano-Convexe;Irrégulier;36;50;23;37;Local
+443;403;;SGD;Ovale Large;Plano-Convexe;Irrégulier;32;49;27;45;Fort
+444;407;;SGD;Semi-circulaire;Plano-Convexe;Irrégulier;58;77;12;119;Local
+445;407;;SGD;Semi-circulaire;Plano-Convexe;Régulier ;34;45;10;101;Fort
+446;407;;SGD;Ovale Large;Plano-Convexe;Irrégulier;27;54;34;46;Local
+447;407;;SGD;Semi-circulaire;Plano-convexe tronquée;Irrégulier;54;64;32;98;Fort
+448;407;;SGD;Ovale Large;Plano-Convexe;Régulier ;42;51;43;62;Aucun
+449;405;;SGD+SAS;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;39;52;39;59;Local
+450;397;us_3;SGD+SAS;Rond;Aplatie;Régulier ;34;38;15;25;Fort
+451;136;decapage;SGD+SAS;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;29;55;29;47;Local
+452;407;;SGD+SAS;Semi-circulaire;Plano-convexe tronquée;Régulier ;82;71;69;540;Local
+453;420;us_2;SGD+SAS;Semi-circulaire;Plano-convexe tronquée;Irrégulier;80;88;61;375;Local
+454;407;;SGD+SAS;Semi-circulaire;Bombo-convexe;Irrégulier;25;34;33;17;Local
+455;407;;SGD+SAS;Irrégulière;Irregulière;Déchiqueté;26;37;24;12;Local
+456;177;us_noire;SGD+SFR;Ovale Large;Plano-Convexe;Régulier ;26;47;24;35;Faible 
+457;192;us_noire;SGD+SFR;Irrégulière;Aplatie;Régulier ;33;31;18;25;Faible 
+458;192;us_1;SGD+SFR;Ovale Long;Plano-Convexe;Régulier ;29;25;16;15;Faible 
+459;219;sd_1;SGD+SFR;Ovale Large;Concavo-convexe;Régulier ;69;84;33;285;Fort
+460;420;us_2;SGD+SFR;Ovale Long;Plano-Convexe;Régulier ;50;35;17;40;Faible 
+461;406;2eme_moitie;SGD+SFR;Ovale Long;Plano-Convexe;Régulier ;46;43;20;55;Faible 
+462;407;;SGD+SFR;Ovale Large;Plano-Convexe;Irrégulier;68;83;73;560;Local
+463;177;;SGD+SFR;Ovale Large;Plano-Convexe;Régulier ;37;66;24;55;Faible 
+464;397;;SGD+SFR;Semi-circulaire;Aplatie;Irrégulier;26;39;11;17;Fort
+465;742;us_2;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;47;64;42;119;Local
+466;742;us_2;SGD+SFR;Ovale Large;Aplatie;Irrégulier;34;39;22;20;Fort
+467;397;us_4 ;SGD+SFR;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;48;40;32;79;Fort
+468;405;;SGD+SFR;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;40;69;59;229;Fort
+469;420;us_1;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;24;69;46;77;Fort
+470;420;us_1;SGD+SFR;Rond;Plano-Convexe;Régulier ;52;52;29;63;Faible 
+471;420;us_1;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;48;61;37;85;Faible 
+472;192;us_1;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;45;54;36;118;Fort
+473;192;us_1;SGD+SFR;Rond;Plano-Convexe;Lisse;60;61;45;360;Fort
+474;192;us_1;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;42;64;41;115;Faible 
+475;192;us_1;SGD+SFR;Ovale Large avec 2 bord d'appui rectiligne;Aplatie;Régulier ;50;54;17;76;Faible 
+476;192;us_1;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Bombo-convexe tronquée;Irrégulier;36;67;35;131;Faible 
+477;397;us_3;SGD+SFR;Ovale Large;Plano-Convexe;Régulier ;38;51;34;61;Local
+478;173;2eme_moitie;SGD+SFR;Semi-circulaire;Bombo-convexe tronquée;Irrégulier;29;49;26;16;Faible 
+479;136;decapage;SGD+SFR;Rond;Plano-Convexe;Irrégulier;30;28;27;16;Local
+480;407;;SGD+SFR;Rond;Plano-convexe tronquée;Régulier ;34;42;22;39;Local
+481;420;us_2;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;46;67;46;193;Faible 
+482;420;us_2;SGD+SFR;Ovale Large;Aplatie;Irrégulier;36;64;19;63;Local
+483;420;us_2;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;23;51;12;49;Faible 
+484;420;us_2;SGD+SFR;Ovale Large;Aplatie;Irrégulier;30;57;12;49;Fort
+485;570;;SGD+SFR;Ovale Large;Composée;Régulier ;60;88;47;246;Local
+486;405;;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;54;89;57;315;Local
+487;405;;SGD+SFR;Semi-circulaire;Bombo-convexe tronquée;Irrégulier;70;88;64;315;Fort
+488;414;;SGD+SFR;Ovale Large;Aplatie;Régulier ;67;93;33;183;Faible 
+489;407;;SGD+SFR;Ovale Large;Plano-Convexe;Irrégulier;77;101;42;420;Fort
+490;407;;SGD+SFR;Semi-circulaire;Aplatie;Déchiqueté;47;70;37;75;Aucun
+491;407;;SGD+SFR;Rond;Bombo-convexe;Déchiqueté;56;58;29;99;Faible 
+492;407;;SGD+SFR;Irrégulière;Plano-Convexe;Déchiqueté;36;57;32;67;Local
+493;407;;SGD+SFR;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;41;37;35;79;Fort
+494;407;;SGD+SFR;Rond;Aplatie;Irrégulier;27;29;16;15;Fort
+495;420;;SGD+SFR;Ovale Large avec 2 bord d'appui rectiligne en TC;Plano-convexe tronquée;Irrégulier;50;66;44;193;Local
+496;192;;SGD+SFR;Rond;Aplatie;Irrégulier;42;49;24;42;Local
+497;407;us_1 ;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Lisse;67;58;54;116;Fort
+498;407;us_1 ;SGD+SFR;Rond;Plano-Convexe;Irrégulier;32;33;27;22;Faible 
+499;407;us_1 ;SGD+SFR;Semi-circulaire;Bombo-convexe tronquée;Irrégulier;46;49;36;77;Aucun
+500;407;us_1 ;SGD+SFR;Ovale Large;Bombo-convexe;Régulier ;82;107;63;540;Fort
+501;407;;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;52;65;28;148;Fort
+502;407;;SGD+SFR;Ovale Long avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;79;36;35;86;Fort
+503;403;;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;39;70;27;75;Fort
+504;407;2eme_moitie;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;87;105;42;450;Fort
+505;407;2eme_moitie;SGD+SFR;Ovale Long avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Irrégulier;61;48;36;131;Local
+506;407;us_4;SGD+SFR;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;39;78;29;90;Fort
+507;403;;SGD+SFR;Ovale Large;Plano-Convexe;Régulier ;52;82;50;175;Fort
+508;403;;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;32;44;20;42;Fort
+509;403;;SGD+SFR;Ovale Long;Plano-Convexe;Régulier ;118;65;25;425;Fort
+510;403;;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Irrégulier;25;34;27;23;Local
+511;403;;SGD+SFR;Semi-circulaire;Plano-convexe tronquée;Régulier ;27;40;25;29;Local
+512;403;;SGD+SFR;Semi-circulaire;Plano-Convexe;Irrégulier;42;67;37;112;Fort
+513;403;;SGD+SFR;Ovale Large;Aplatie;Régulier ;43;55;20;45;Fort
+514;403;;SGD+SFR;Irrégulière;Aplatie;Irrégulier;32;40;18;20;Local
+515;742;us_2;SGD+SFR_avec_traces_de_verre_bleu;Rond;Plano-Convexe;Régulier ;23;21;12;4;Faible 
+516;397;us_4 ;SGD+SFR_avec_traces_de_verre_bleu;Ovale Long;Plano-Convexe;Régulier ;32;30;15;10;Fort
+517;397;us_4 ;SGD+SFR_avec_traces_de_verre_bleu;Rond;Aplatie;Régulier ;30;28;9;5;Faible 
+518;192;us_1;SGD+SFR_avec_traces_de_verre_bleu;Rond;Plano-Convexe;Régulier ;21;28;21;8;Faible 
+519;397;us_3;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Irrégulier;46;64;20;59;Local
+520;420;us_2;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Bombo-convexe;Déchiqueté;37;67;39;57;Local
+521;420;us_2;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;27;43;27;22;Faible 
+522;420;us_2;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large avec 1 bord d'appui rectiligne;Plano-convexe tronquée;Régulier ;26;39;27;18;Local
+523;403;surface;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Bombo-convexe;Lisse;26;33;21;11;Local
+524;403;surface;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Bombo-convexe;Lisse;14;29;17;10;Local
+525;405;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Irrégulier;30;41;18;15;Local
+526;779;surface;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Irrégulier;28;55;28;55;Local
+527;406;;SGD+SFR_avec_traces_de_verre_bleu;Rond;Aplatie;Régulier ;23;23;13;5;Aucun
+528;407;;SGD+SFR_avec_traces_de_verre_bleu;Rond;Concavo-convexe;Régulier ;34;37;21;22;Local
+529;407;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large avec 1 bord d'appui rectiligne en TC;Plano-convexe tronquée;Régulier ;32;37;29;25;Faible 
+530;407;;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Plano-Convexe;Régulier ;34;40;23;21;Local
+531;407;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Régulier ;27;42;23;19;Aucun
+532;407;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Régulier ;25;30;12;11;Fort
+533;407;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Lisse;25;35;15;9;Faible 
+534;407;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Lisse;30;41;17;19;Fort
+535;420;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Irrégulier;41;51;44;50;Local
+536;407;us_1 ;SGD+SFR_avec_traces_de_verre_bleu;Rond;Aplatie;Lisse;32;39;14;13;Aucun
+537;403;;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Plano-Convexe;Irrégulier;30;36;26;17;Aucun
+538;403;;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Aplatie;Régulier ;26;33;19;10;Faible 
+539;403;;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Aplatie;Régulier ;40;48;14;25;Faible 
+540;407;2eme_moitie;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Lisse;31;39;22;17;Faible 
+541;403;;SGD+SFR_avec_traces_de_verre_bleu;Semi-circulaire;Aplatie;Lisse;24;28;16;8;Fort
+542;403;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Régulier ;29;45;15;15;Fort
+543;403;;SGD+SFR_avec_traces_de_verre_bleu;Rond;Plano-Convexe;Lisse;23;24;15;8;Aucun
+544;403;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Plano-Convexe;Régulier ;26;34;21;16;Local
+545;403;;SGD+SFR_avec_traces_de_verre_bleu;Ovale Large;Aplatie;Régulier ;23;33;16;7;Local
+546;403;;SGD+SFR_avec_traces_de_verre_bleu;Irrégulière;Plano-Convexe;Régulier ;35;49;26;26;Faible 
