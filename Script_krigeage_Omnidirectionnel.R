@@ -132,12 +132,12 @@ spplot(Epaisseur.kriged ["var1.var"], main = "ordinary kriging variance")
 
 ### exporter les résultats du krigeage de Epaisseur
 
-library(rgdal) 
+library(rgdal)
 writeGDAL(Epaisseur.kriged, "outputs/predict_Epaisseur.tiff", drivername="GTiff")
 
 # 7 - validation croisée = pour valider le modèle
 
-Epaisseur.cv = krige.cv(Epaisseur~1, BDdepot1, model = vario.Epaisseur.fit)
+Epaisseur.cv <- krige.cv(Epaisseur~1, BDdepot1, model = vario.Epaisseur.fit)
 
 
 ### définition des titres d'axes
@@ -145,18 +145,18 @@ Epaisseur_mesure <- Epaisseur.cv$observed
 Epaisseur_estime <- Epaisseur.cv$var1.pred
 
 ### tracer le graphique
-plot(Epaisseur_mesure, Epaisseur_estime, main = "validation crois?e" )
+plot(Epaisseur_mesure, Epaisseur_estime, main = "validation croisée" )
 
 ###exporter les valeurs de la validation croisée de Epaisseur
 
-write.table (Epaisseur.cv, file = "outputs/validation_croisee_Epaisseur.txt",sep=";") 
+write.table(Epaisseur.cv, file = "outputs/validation_croisee_Epaisseur.txt",sep=";") 
 
-### calcul coefficient de corr?lation entre 2 variables
-## on teste H0 = 0 vaec un alpha de 0.05. Si p-value < 0.05 alors Ho rejet?e donc corefficient de corr?lation repr?sentatif
+### calcul coefficient de corrélation entre 2 variables
+## on teste H0 = 0 vaec un alpha de 0.05. Si p-value < 0.05 alors Ho rejetée donc corefficient de corrélation représentatif
 cor(Epaisseur_mesure, Epaisseur_estime, method = c("pearson"))
 cor.test(Epaisseur_mesure, Epaisseur_estime, method=c("pearson"))
 
-# 8 - Si besoin de tester la m?thode d'interpolation inverse ? la distance : IDW
+# 8 - Si besoin de tester la méthode d'interpolation inverse à la distance : IDW
 Epaisseur.idw <- idw(Epaisseur~1, BDdepot2, Grid)
 class(Epaisseur.idw)
 spplot(Epaisseur.idw ["var1.pred"], main = "Estimation - IDW")
