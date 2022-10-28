@@ -8,7 +8,7 @@ library(readr)
 BDdepot2 <- read_delim("BDdepot2.csv", ";", escape_double = FALSE, trim_ws = TRUE)
 View(BDdepot2)
 
-#2 - Vérification des données (nb de données, nb colonnes / noms des champs / résumé pour chaque variable)
+#2 - Vérification des données (nb de données, nb colonnes / noms des champs / résumé pour chaques variables)
 
 library(gstat)
 dim(BDdepot2)
@@ -35,7 +35,7 @@ summary(BDdepot2)
 plot(BDdepot2)    #> cartographie des points (permet de vérfier la carte)
 
 
-##4-2a - Cartographie de la semi-variance de "Epaisseur" (cutoff = longueur max / witdh = taille de la cellule ou distance de voisinage/ thresold = seuil (nb paires de point?) -> il faut tenter plusieurs mesures pour visualiser les variations)
+##4-2a - Cartographie de la semi-variance de "Epaisseur" (cutoff = longueur max / witdh = taille de la cellule ou distance de voisinage/ thresold = seuil (nb paires de pointé) -> il faut tenter plusieurs mesures pour visualiser les variations)
 ## "~1" veut dire qu'il n'y a une constance dans l'espace, on pourrait remplacer par un autre paramètre tel que le relief, voir l'aide sur ces fonctions
 vario.map.Epaisseur <- gstat::variogram((Epaisseur)~1, BDdepot2, cutoff = 1200, width = 100, map = TRUE)
 plot(vario.map.Epaisseur , threshold = 10)
@@ -45,7 +45,7 @@ plot(vario.map.Epaisseur , threshold = 10)
 # 5 - Tracer les variogrammes directionnel
 
 ## 5-1a - Variogramme directionnel avec log(épaisseur) une tendance constante 
-## avec angle (70? et 160?) et angle tolérance 20?(pour avoir assez de paires de points)
+## avec angle (70° et 160°) et angle tolérance 20°(pour avoir assez de paires de points)
 ##en imposant distance limite (cutoff) et le pas (width)
 
 vario.Epaisseur <- gstat::variogram((Epaisseur)~1, BDdepot2, cutoff = 1200, width = 100, alpha = c(70, 160), tol.hor = 20, cloud = FALSE)
@@ -56,33 +56,33 @@ View(vario.Epaisseur)
 ## 5-1b exporter les valeurs du variogramme de Epaisseur
 write.table(vario.Epaisseur, file = "outputs/vario_Epaisseur_70_160.txt",sep=";")
 
-## 5- 2 - Ajustement d'un modèle (fit) de variogramme (fonction vgm) / Ici, psill et range sont donnés à titre indicatif 
-# si valeur de nugget non-mentionn?e, l'ajustement ne propose par d'effets de p?pite
-# si fit.sills = TRUE => nugget et psill sont ajust?s automatiquement / si fit.sills = FALSE => nugget et psill sont ajust?s selon mon mod?le
-# si fit.range = TRUE => range est ajust? automatiquement / # si fit.range = FALSE => range est ajust? manuellement
+## 5- 2 - Ajustement d'un modéle (fit) de variogramme (fonction vgm) / Ici, psill et range sont donnés à titre indicatif 
+# si valeur de nugget non-mentionnée, l'ajustement ne propose par d'effets de pépite
+# si fit.sills = TRUE => nugget et psill sont ajustés automatiquement / si fit.sills = FALSE => nugget et psill sont ajustés selon mon modèle
+# si fit.range = TRUE => range est ajusté automatiquement / # si fit.range = FALSE => range est ajusté manuellement
 vario.Epaisseur.fit <- fit.variogram (vario.Epaisseur , vgm(psill = 1.9, model = "Exp", range = 325, nugget = 1.1, anis = c(70, 0.66)), fit.sills = FALSE , fit.range = FALSE)
 vario.Epaisseur.fit
 plot(vario.Epaisseur,vario.Epaisseur.fit, type ="o", main = "Epaisseur_70_160 - Variogamme ajust?")
 
 # 6 - Krigeage
-## Pr?paration des donn?es de BDdepot1
-###  Ouvrir les donn?es de BDdepot1 (A faire automatiquement depuis FILE/Import Dataset ou taper ci-dessous) + ATTENtion NE PAS UTILISER Excel mais export csv avec d?limiteurs ";" ou semicolon et les d?cimales avec des points
+## Préparation des données de BDdepot1
+###  Ouvrir les données de BDdepot1 (A faire automatiquement depuis FILE/Import Dataset ou taper ci-dessous) + ATTENtion NE PAS UTILISER Excel mais export csv avec délimiteurs ";" ou semicolon et les décimales avec des points
 BDdepot1 <- read_delim("BDdepot1.csv", ";", escape_double = FALSE, trim_ws = TRUE)
 View(BDdepot1)
 
-### pr?paration carto de BDdepot1
-head(BDdepot1)    #cr?er un identifiant unique devant tableau de donn?es
+### préparation carto de BDdepot1
+head(BDdepot1)    #créer un identifiant unique devant tableau de données
 class(BDdepot1)   #> il faut obtenir :
 #[1] "data.frame"
-coordinates(BDdepot1) <- ~X+Y #D?finir les coordonn?es x et y en utlisant les nom des champs
+coordinates(BDdepot1) <- ~X+Y #Définir les coordonnées x et y en utlisant les nom des champs
 class(BDdepot1)   #> il faut obtenir :
 #[1] "SpatialPointsDataFrame"
 #attr(,"package")
 #[1] "sp"
 summary(BDdepot1)
-plot(BDdepot1)    #> cartographie des points (permet de v?rfier la carte)
+plot(BDdepot1)    #> cartographie des points (permet de vérfier la carte)
 
-## Cr?er un grid vide (limite de la fen?tre) = attention ? la taille de la cellule en sortie, demande qq minutes pour kriger!
+## Créer un grid vide (limite de la fenêtre) = attention à la taille de la cellule en sortie, demande qq minutes pour kriger!
 ouest<-474242.855888
 est<-476935.196567
 nord<-267752.513007
@@ -99,19 +99,19 @@ gridded(Grid)<-TRUE
 
 class(Grid)
 
-##Faire le krigeage de BDdepot1 ? l'aide du mod?le d?fini dans BDdepot2 dans le grid
+##Faire le krigeage de BDdepot1 à l'aide du modèle défini dans BDdepot2 dans le grid
 
 Epaisseur.kriged <- krige((Epaisseur)~1, BDdepot1, Grid, model = vario.Epaisseur.fit)
 
-###Affiche les valeurs estim?es
+###Affiche les valeurs estimées
 
 spplot(Epaisseur.kriged ["var1.pred"], main = "Estimation Epaisseur - krigeage ordinaire")
 
-###Affiche la variance calcul?e
+###Affiche la variance calculée
 
 spplot(Epaisseur.kriged ["var1.var"], main = "ordinary kriging variance")
 
-### exporter les r?sultats du krigeage de Epaisseur
+### exporter les résultats du krigeage de Epaisseur
 
 library(rgdal)
 writeGDAL(Epaisseur.kriged, "outputs/predict_Epaisseur_direct_choisi.tiff", drivername="GTiff")
@@ -128,16 +128,16 @@ Epaisseur_estime <- Epaisseur.cv$var1.pred
 ### tracer le graphique
 plot(Epaisseur_mesure, Epaisseur_estime, main = "validation crois?e" )
 
-###exporter les valeurs de la validation crois?e de Epaisseur
+###exporter les valeurs de la validation croisée de Epaisseur
 
 write.table(Epaisseur.cv, file = "outputs/validation_croisee_Epaisseur.txt",sep=";") 
 
-### calcul coefficient de corr?lation entre 2 variables
-## on teste H0 = 0 vaec un alpha de 0.05. Si p-value < 0.05 alors Ho rejet?e donc corefficient de corr?lation repr?sentatif
+### calcul coefficient de corrélation entre 2 variables
+## on teste H0 = 0 vaec un alpha de 0.05. Si p-value < 0.05 alors Ho rejetée donc corefficient de corrélation représentatif
 cor(Epaisseur_mesure, Epaisseur_estime, method = c("pearson"))
 cor.test(Epaisseur_mesure, Epaisseur_estime, method=c("pearson"))
 
-# 8 - Si besoin de tester la m?thode d'interpolation inverse ? la distance : IDW
+# 8 - Si besoin de tester la méthode d'interpolation inverse à la distance : IDW
 Epaisseur.idw <- idw(Epaisseur~1, BDdepot2, Grid)
 class(Epaisseur.idw)
 spplot(Epaisseur.idw ["var1.pred"], main = "Estimation - IDW")
