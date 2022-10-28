@@ -110,15 +110,15 @@ Z_alluv_mesure <- Z.alluv.cv$observed
 Z_alluv_estime <- Z.alluv.cv$var1.pred
 
 ### tracer le graphique
-plot(Z.alluv_mesure, Z_alluv_estime, main = "validation croisée" )
+plot(Z_alluv_mesure, Z_alluv_estime, main = "validation croisée" )
 
 ###exporter les valeurs de la validation croisée de Z_alluv
 
-write.table (Z.alluv.cv, file = "outputs/validation_croisee_Z_alluv.txt",sep=";") 
+write.table(Z.alluv.cv, file = "outputs/validation_croisee_Z_alluv.txt",sep=";") 
 
 ### calcul corefficient de corrélation entre 2 variables
-cor(Z.alluv_mesure, Z_alluv_estime, method = c("pearson"))
-cor.test(Z.alluv_mesure, Z_alluv_estime, method=c("pearson"))
+cor(Z_alluv_mesure, Z_alluv_estime, method = c("pearson"))
+cor.test(Z_alluv_mesure, Z_alluv_estime, method=c("pearson"))
 
 # 8 - IDW
 Z_alluv.idw <- idw(Z_alluv~1, BDdepot2, Grid)
