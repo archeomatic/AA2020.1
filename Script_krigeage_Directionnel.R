@@ -50,7 +50,7 @@ plot(vario.map.Epaisseur , threshold = 10)
 
 vario.Epaisseur <- gstat::variogram((Epaisseur)~1, BDdepot2, cutoff = 1200, width = 100, alpha = c(70, 160), tol.hor = 20, cloud = FALSE)
 vario.Epaisseur #déclarer la variable = créer un type "gstat.variogram"
-plot(vario.Epaisseur, type ="o", main = "Epaisseur - Variogamme exp?rimental 70 ? et 160?") #type "o" = points calculés sont tracés et reliés
+plot(vario.Epaisseur, type ="o", main = "Epaisseur - Variogamme expérimental 70°  et 160°") #type "o" = points calculés sont tracés et reliés
 View(vario.Epaisseur)
 
 ## 5-1b exporter les valeurs du variogramme de Epaisseur
@@ -62,7 +62,7 @@ write.table(vario.Epaisseur, file = "outputs/vario_Epaisseur_70_160.txt",sep=";"
 # si fit.range = TRUE => range est ajusté automatiquement / # si fit.range = FALSE => range est ajusté manuellement
 vario.Epaisseur.fit <- fit.variogram (vario.Epaisseur , vgm(psill = 1.9, model = "Exp", range = 325, nugget = 1.1, anis = c(70, 0.66)), fit.sills = FALSE , fit.range = FALSE)
 vario.Epaisseur.fit
-plot(vario.Epaisseur,vario.Epaisseur.fit, type ="o", main = "Epaisseur_70_160 - Variogamme ajust?")
+plot(vario.Epaisseur,vario.Epaisseur.fit, type ="o", main = "Epaisseur_70_160 - Variogamme ajusté")
 
 # 6 - Krigeage
 ## Préparation des données de BDdepot1
@@ -126,7 +126,7 @@ Epaisseur_mesure <- Epaisseur.cv$observed
 Epaisseur_estime <- Epaisseur.cv$var1.pred
 
 ### tracer le graphique
-plot(Epaisseur_mesure, Epaisseur_estime, main = "validation crois?e" )
+plot(Epaisseur_mesure, Epaisseur_estime, main = "validation croisée" )
 
 ###exporter les valeurs de la validation croisée de Epaisseur
 
