@@ -116,7 +116,7 @@ spplot(Epaisseur.kriged ["var1.var"], main = "ordinary kriging variance")
 library(rgdal)
 writeGDAL(Epaisseur.kriged, "outputs/predict_Epaisseur_direct_choisi.tiff", drivername="GTiff")
 
-# 7 - validation croisée = pour valider le mod?le
+# 7 - validation croisée = pour valider le modèle
 
 Epaisseur.cv <- krige.cv(Epaisseur~1, BDdepot1, model = vario.Epaisseur.fit)
 

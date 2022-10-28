@@ -23,7 +23,7 @@ library(sp)
 head(BDdepot2)    #créer un identifiant unique devant tableau de données
 class(BDdepot2)   #> il faut obtenir :
                   #[1] "data.frame"
-coordinates(BDdepot2) <- ~X+Y #D?finir les coordonnées x et y en utlisant les nom des champs
+coordinates(BDdepot2) <- ~X+Y #Définir les coordonnées x et y en utlisant les nom des champs
 class(BDdepot2)   #> il faut obtenir :
                       #[1] "SpatialPointsDataFrame"
                       #attr(,"package")
