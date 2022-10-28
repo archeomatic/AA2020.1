@@ -22,7 +22,6 @@ plot.geodata(geoBDdepot2)
 #4 - Isotropie ou anisotropie = spatialisation de la variance. Il faut générer coordinates sur le DATA.frame sinon ne peut pas marcher
 
 ##4-1 - Préparation des données
-library(gstat)
 library(sp)
 head(BDdepot2)    #créer un identifiant unique devant tableau de données
 class(BDdepot2)   #> il faut obtenir :
@@ -51,8 +50,8 @@ plot(vario.map.Epaisseur , threshold = 10)
 
 vario.Epaisseur <- gstat::variogram((Epaisseur)~1, BDdepot2, cutoff = 1200, width = 100, alpha = c(70, 160), tol.hor = 20, cloud = FALSE)
 vario.Epaisseur #déclarer la variable = créer un type "gstat.variogram"
-plot (vario.Epaisseur, type ="o", main = "Epaisseur - Variogamme exp?rimental 70 ? et 160?") #type "o" = points calculés sont tracés et reliés
-View (vario.Epaisseur)
+plot(vario.Epaisseur, type ="o", main = "Epaisseur - Variogamme exp?rimental 70 ? et 160?") #type "o" = points calculés sont tracés et reliés
+View(vario.Epaisseur)
 
 ## 5-1b exporter les valeurs du variogramme de Epaisseur
 write.table(vario.Epaisseur, file = "outputs/vario_Epaisseur_70_160.txt",sep=";")
